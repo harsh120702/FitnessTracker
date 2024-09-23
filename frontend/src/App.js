@@ -1,4 +1,5 @@
 import { BrowserRouter, Routes, Route } from 'react-router-dom'
+require('dotenv').config()
 
 // pages & components
 import Home from './pages/Home'
